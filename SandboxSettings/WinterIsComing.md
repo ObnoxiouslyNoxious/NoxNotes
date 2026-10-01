@@ -1,7 +1,7 @@
 # Winter is Coming - Sandbox Settings
 
-Source: 42.21 Stable
-Date: 1st October 2026
+Source: 42.21 Stable  
+Date: 1st October 2026  
 
 ---
 
