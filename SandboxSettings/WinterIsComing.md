@@ -1,4 +1,5 @@
-# Winter is Coming - Sandbox Settings
+# Sandbox Settings
+## Game Mode: Winter is Coming  
 
 Source: 42.21 Stable  
 Date: 1st October 2026  
